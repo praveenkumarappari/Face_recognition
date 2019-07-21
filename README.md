@@ -27,6 +27,8 @@ eg: C:\praveen\germany\Artificial intelligence\praveen\images\praveen
 here training the images into numpy array using pil_image library. This is taking every pixel value into some sort of numpy array.
 This is just to convert the every images into set of numbers.
 
+The changes in code from the below reference link is versions i dealed with python and even the libraries which is effecting the results. In the reference the entire project is there in which i had simplified the query for my target state. As mention my source code is ony for recognizing the live face withh label name. The project is trimmed according my requirement and sort of variable storage for better understanding from scratch. In this cascades presented are not changed as we have standard requirement for recognition of face.
+The sample results which i runned through are mentioned below.
 
 Install mentioned libraries in the above 
 eg; pip intsall numpy --upgrade
