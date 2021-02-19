@@ -33,6 +33,9 @@ The sample results which i runned through are mentioned below.
 Install mentioned libraries in the above 
 eg; pip intsall numpy --upgrade
 
+Please make sure that you have OpenCV Contrib installed, using the command pip install opencv-contrib-python 
+
+
 ==>  import the this source code and initially run the python training file :
 python facerecognize-train.py
 
